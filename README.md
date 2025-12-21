@@ -7,6 +7,9 @@ This project is an **Excel-based automated dashboard** for analyzing **revenue a
 It automates data cleaning, consolidation, and reporting, and allows users to toggle between **Revenue** and **Profit** views using light VBA.
 
 ## Problem
-Monthly sales data often comes as seperate CSV files that require repeated clening and consolidation. This slows reporting and increases the chance of errors, making it difficult for decision-makers to get timely insights.
+Monthly sales data often comes as seperate CSV files that require repeated manual cleaning, consolidation and analysis to track revenue and profit.
+This slows reporting and increases the chance of errors, making it difficult for decision-makers to get timely insights.
+
+The challenge is to create an **Excel-based solution** that **automates monthly revenue and profit analysis**, refreshes insight with minimal effort and presents results through a clear, decision-ready dashboard.
 
 ## Solution
