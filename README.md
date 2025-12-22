@@ -56,7 +56,10 @@ This solution is ideal for small and medium businesses with monthly datasets of 
 
 👉 [link]
 
-## Key KPIs
+## Analysis & Visuals
+The dashboard provides both Revenue and Profit views, allowing users to switch between perspectives depending on business needs.
+
+### Key KPIs
 -  Total Transactions: Total number of completed sales transactions within the selected period.
 -  Total Cost: Total cost incurred to generate the recorded sales.
 -  Total Units Sold: Sum of all units sold across all transaction.
@@ -64,3 +67,11 @@ This solution is ideal for small and medium businesses with monthly datasets of 
 -  Average Revenue per Transaction: Average sales value generated per transaction.
 -  Total Profit: Net profit generated after deducting total cost from total revenue.
 -  Profit Margin (%): Percentage of revenue retained as profit after costs.  
+
+### Dashboard Charts
+-  Monthly Trends & MoM Change: Shows monthly performance based on revenue or profit, highlights the best and worst performing months, and displays the percentage increase or decrease to track growth trends over time.
+-  Revenue by Week Type: Compares weekday versus weekend performance to understand buying behavior.
+-  Revenue by Weekday: Breaks down revenue across days of the week to identify peak and low-performing days.
+-  City Performance:  Analyzes revenue and profit contribution by city to identify strong and underperforming locations. Also Top five cities with the highest contribution where emphasized, with thier percentage contribution to overall performance displayed for easy comparison.
+-  Product Category Performance: Evaluates category-level performance to support product mix and inventory decisions and top selling product category is highlighted to quickly identify the strongest revenue or profit driver.
+-  Top & Bottom 10 Products: Identifies the highest and lowest performing products based on revenue or profit.
