@@ -14,7 +14,7 @@ The challenge is to create an **Excel-based solution** that **automates monthly 
 
 ## Solution
 An Excel-based automation dashboard was developed to streamline monthly revenue and profit analysis. The solution automatically consolidates transactional data, standardizes it for consistent reporting, and presents key performance metrics through an interactive dashboard.
-With a single refresh, the latest available data is automatically included in the analysis, updating revenue, profit, and margin insights end-to-end without repeated manual work. The design priortizes minimal manual effort, repeatable monthly analysis, and clear business insights, while using light interactivity to allow users to switch between revenue and profit views as needed.
+  With a single refresh, the latest available data is automatically included in the analysis, updating revenue, profit, and margin insights end-to-end without repeated manual work. The design priortizes minimal manual effort, repeatable monthly analysis, and clear business insights, while using light interactivity to allow users to switch between revenue and profit views as needed.
 
 ## Tools
 -  **Microsoft Excel**: Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
@@ -24,7 +24,7 @@ With a single refresh, the latest available data is automatically included in th
 
 ## Datasets
 **Nigeria Retail and E-commerce Monthly Transactional Data**
-Columns :
+  Columns :
   1.   Transaction id- Unique identifier of each sales transaction.
   2.   Transaction date- Date the transaction occured
   3.   Product Category- High level classification of the product
@@ -45,9 +45,7 @@ Columns :
 
 ## Scalability & Use Cases
 This solution is ideal for small and medium businesses with monthly datasets of 1000 to 50,000 rows, where Excel remains efficient and easy to maintain.
-A full refresh typically takes 30 seconds to 2 minutes, depending on file size and system resources.
-This time is worth it, as the refresh consolidates files, cleans data, recalculates KPIs, and updates the dashboard. delivering a complete revenue and profit analysis in one step.
-The same workflow can be applied quarterly or yearly, depending on business needs.
-For larger datasets, a BI tool is recommended. 
-A Power BI version of this automation is available here:
+  A full refresh typically takes 30 seconds to 2 minutes, depending on file size and system resources. This time is worth it, as the refresh consolidates files, cleans data, recalculates KPIs, and updates the dashboard. Delivering a complete revenue and profit analysis in one step.
+  The same workflow can be applied quarterly or yearly, depending on business needs.
+  For larger datasets, a BI tool is recommended. A Power BI version of this automation is available here:
 👉 [link]
