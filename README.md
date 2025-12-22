@@ -1,4 +1,4 @@
-# excel-revenue-profit-automation-dashboard-
+# Excel Revenue & Profit Automation Dashboard
 excel automation dashboard for revenue and profit analysis using Power Query, Pivot Tables, and light VBA.
 **Nigeria Retail and E-commerce Transactional Data**
 
@@ -14,4 +14,4 @@ The challenge is to create an **Excel-based solution** that **automates monthly 
 
 ## Solution
 An Excel-based automation dashboard was developed to streamline monthly revenue and profit analysis. The solution automatically consolidates transactional data, standardizes it for consistent reporting, and presents key performance metrics through an interactive dashboard.
-The design priortizes minimal manual effort, repeatable monthly analysis, and clear business insights, while using light interactivity to allow users to switch between revenue and profit views as needed
+With a single refresh, the latest available data is automatically included in the analysis, updating revenue, profit, and margin insights end-to-end without repeated manual work. The design priortizes minimal manual effort, repeatable monthly analysis, and clear business insights, while using light interactivity to allow users to switch between revenue and profit views as needed.
