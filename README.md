@@ -55,3 +55,12 @@ This solution is ideal for small and medium businesses with monthly datasets of 
   For larger datasets, a BI tool is recommended. A Power BI version of this automation is available here:
 
 👉 [link]
+
+## Key KPIs
+-  Total Transactions: Total number of completed sales transactions within the selected period.
+-  Total Cost: Total cost incurred to generate the recorded sales.
+-  Total Units Sold: Sum of all units sold across all transaction.
+-  Total Sales Revenue: Total revenue generated from all sales transactions.
+-  Average Revenue per Transaction: Average sales value generated per transaction.
+-  Total Profit: Net profit generated after deducting total cost from total revenue.
+-  Profit Margin (%): Percentage of revenue retained as profit after costs.  
