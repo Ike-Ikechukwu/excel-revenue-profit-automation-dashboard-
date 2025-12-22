@@ -1,6 +1,6 @@
 # Excel Revenue & Profit Automation Dashboard
 excel automation dashboard for revenue and profit analysis using Power Query, Pivot Tables, and light VBA.
-**Nigeria Retail and E-commerce Transactional Data**
+
 
 ## Overview
 This project is an **Excel-based automated dashboard** for analyzing **revenue and profit** from the *Nigeria Retail and E-commerce Transactional Data*.
