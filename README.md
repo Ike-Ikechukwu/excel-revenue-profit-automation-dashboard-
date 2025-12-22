@@ -17,6 +17,37 @@ An Excel-based automation dashboard was developed to streamline monthly revenue 
 With a single refresh, the latest available data is automatically included in the analysis, updating revenue, profit, and margin insights end-to-end without repeated manual work. The design priortizes minimal manual effort, repeatable monthly analysis, and clear business insights, while using light interactivity to allow users to switch between revenue and profit views as needed.
 
 ## Tools
-●  **Microsoft Excel**:
-  Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
-●  **Power Query**: Power Query is used to automate data consolidation and standardization. This allows the latest monthly data to be included in the analysis with a single refresh
+-  **Microsoft Excel**: Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
+-  **Power Query**: Power Query is used to automate data consolidation and standardization. This allows the latest monthly data to be included in the analysis with a single refresh.
+-  **Pivot Tables & Charts**: Pivot tales and chart power all KPIs and visuals in the dashboard. They ensure metrics update dynamically as the underlying data changes.
+-  **VBA**: VBA is used only to enchanse usability by toggling the dashboards between Revenue and Profit views.
+
+## Datasets
+**Nigeria Retail and E-commerce Monthly Transactional Data**
+Columns :
+  1.   Transaction id- Unique identifier of each sales transaction.
+  2.   Transaction date- Date the transaction occured
+  3.   Product Category- High level classification of the product
+  4.   Product name- Specific product sold
+  5.   Purchase City- Location where the transaction took place
+  6.   Unit price- Selling Price per unit
+  7.   Unit cost- Cost incurred per unit
+  8.   Total price- Total revenue generated per tansaction
+  9.   Total cost- Total cost associated with the transaction
+  10.  Total profit- Net profit earned from the transaction
+
+## How it Works
+1.  Drop new monthly files into the source folder
+2.  Open the Excel dashboard file
+3.  Click **Refresh All**
+4.  Dashboard updates automatically
+5.  Use the toggle buttons to switch between Revenue and Profit Views
+
+## Scalability & Use Cases
+This solution is ideal for small and medium businesses with monthly datasets of 1000 to 50,000 rows, where Excel remains efficient and easy to maintain.
+A full refresh typically takes 30 seconds to 2 minutes, depending on file size and system resources.
+This time is worth it, as the refresh consolidates files, cleans data, recalculates KPIs, and updates the dashboard. delivering a complete revenue and profit analysis in one step.
+The same workflow can be applied quarterly or yearly, depending on business needs.
+For larger datasets, a BI tool is recommended. 
+A Power BI version of this automation is available here:
+👉 [link]
