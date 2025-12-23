@@ -6,7 +6,7 @@ excel automation dashboard for revenue and profit analysis using Power Query, Pi
 This project is an **Excel-based automated dashboard** for analyzing **revenue and profit** from the *Nigeria Retail and E-commerce Transactional Data*.
 It automates data cleaning, consolidation, and reporting, and allows users to toggle between **Revenue** and **Profit** views using light VBA.
 
-## Problem
+## Problem Statement
 Monthly sales data often comes as seperate CSV files that require repeated manual cleaning, consolidation and analysis to track revenue and profit.
 This slows reporting and increases the chance of errors, making it difficult for decision-makers to get timely insights.
 
@@ -40,12 +40,7 @@ An Excel-based automation dashboard was developed to streamline monthly revenue 
   10.  Total profit- Net profit earned from the transaction
 
 ## Methodology
-### Tools
--  **Microsoft Excel**: Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
--  **Power Query**: Power Query is used to automate data consolidation and standardization. This allows the latest monthly data to be included in the analysis with a single refresh.
--  **Pivot Tables & Charts**: Pivot tales and chart power all KPIs and visuals in the dashboard. They ensure metrics update dynamically as the underlying data changes.
--  **VBA**: VBA is used only to enchanse usability by toggling the dashboards between Revenue and Profit views.
--  
+
 
 ### Data Cleaning & Preparation
 1.  **Data Collection:**
@@ -70,27 +65,31 @@ An Excel-based automation dashboard was developed to streamline monthly revenue 
    -  Designed for repeatable monthly updates.
    -  New files in the source folder can update the entire dashboard with one refresh, ensuring all KPIs and visuals are current.
 
-### Analysis & Visuals
+## Analysis & Visuals
 The dashboard provides both Revenue and Profit views, allowing users to switch between perspectives depending on business needs.
 
-#### Key KPIs
--  Total Transactions: Total number of completed sales transactions within the selected period.
--  Total Cost: Total cost incurred to generate the recorded sales.
--  Total Units Sold: Sum of all units sold across all transaction.
--  Total Sales Revenue: Total revenue generated from all sales transactions.
--  Average Revenue per Transaction: Average sales value generated per transaction.
--  Total Profit: Net profit generated after deducting total cost from total revenue.
--  Profit Margin (%): Percentage of revenue retained as profit after costs.  
+### Dashboard Charts
+-  **Monthly Trends & MoM Change:** Shows monthly performance based on revenue or profit, highlights the best and worst performing months, and displays the percentage increase or decrease to track growth trends over time.
+-  **Revenue by Week Type:** Compares weekday versus weekend performance to understand buying behavior.
+-  **Revenue by Weekday:** Breaks down revenue across days of the week to identify peak and low-performing days.
+-  **City Performance:**  Analyzes revenue and profit contribution by city to identify strong and underperforming locations. Also Top five cities with the highest contribution where emphasized, with thier percentage contribution to overall performance displayed for easy comparison.
+-  **Product Category Performance:** Evaluates category-level performance to support product mix and inventory decisions and top selling product category is highlighted to quickly identify the strongest revenue or profit driver.
+-  **Top & Bottom 10 Products:** Identifies the highest and lowest performing products based on revenue or profit.
 
-#### Dashboard Charts
--  Monthly Trends & MoM Change: Shows monthly performance based on revenue or profit, highlights the best and worst performing months, and displays the percentage increase or decrease to track growth trends over time.
--  Revenue by Week Type: Compares weekday versus weekend performance to understand buying behavior.
--  Revenue by Weekday: Breaks down revenue across days of the week to identify peak and low-performing days.
--  City Performance:  Analyzes revenue and profit contribution by city to identify strong and underperforming locations. Also Top five cities with the highest contribution where emphasized, with thier percentage contribution to overall performance displayed for easy comparison.
--  Product Category Performance: Evaluates category-level performance to support product mix and inventory decisions and top selling product category is highlighted to quickly identify the strongest revenue or profit driver.
--  Top & Bottom 10 Products: Identifies the highest and lowest performing products based on revenue or profit.
+### Key KPIs
+-  **Total Transactions:** Total number of completed sales transactions within the selected period.
+-  **Total Cost:** Total cost incurred to generate the recorded sales.
+-  **Total Units Sold:** Sum of all units sold across all transaction.
+-  **Total Sales Revenue:** Total revenue generated from all sales transactions.
+-  **Average Revenue per Transaction:** Average sales value generated per transaction.
+-  **Total Profit:** Net profit generated after deducting total cost from total revenue.
+-  **Profit Margin (%):** Percentage of revenue retained as profit after costs.  
 
-
+## Tools
+-  **Microsoft Excel**: Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
+-  **Power Query**: Power Query is used to automate data consolidation and standardization. This allows the latest monthly data to be included in the analysis with a single refresh.
+-  **Pivot Tables & Charts**: Pivot tales and chart power all KPIs and visuals in the dashboard. They ensure metrics update dynamically as the underlying data changes.
+-  **VBA**: VBA is used only to enchanse usability by toggling the dashboards between Revenue and Profit views.
 
 ## Scalability & Use Cases
 This solution is ideal for small and medium businesses with monthly datasets of 1000 to 50,000 rows, where Excel remains efficient and easy to maintain.
@@ -102,10 +101,6 @@ This solution is ideal for small and medium businesses with monthly datasets of 
   For larger datasets, a BI tool is recommended. A Power BI version of this automation is available here:
 
 👉 [link]
-
-
-
-## Insights Generated
 
 ## Skills Demonstrated
 -  Excel automation with Power Query
