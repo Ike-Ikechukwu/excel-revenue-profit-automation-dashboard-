@@ -91,10 +91,10 @@ The dashboard provides insights across Revenue and Profit views, allowing users 
 -  **Profit Margin (%):** Percentage of revenue retained as profit after costs.  
 
 ### Revenue Dashboard View
-![Revenue Dashboard](<img width="917" height="447" alt="Revenue view" src="https://github.com/user-attachments/assets/804c2272-137a-4158-a47b-e9b15923451a" />)
+<img width="917" height="447" alt="Revenue view" src="https://github.com/user-attachments/assets/804c2272-137a-4158-a47b-e9b15923451a" />
 
 ### Profit Dashboard View
-![Profit Dashboard](<img width="922" height="445" alt="Profit View" src="https://github.com/user-attachments/assets/2001901b-2348-4389-af98-7fcfff2ccafd" />)
+<img width="922" height="445" alt="Profit View" src="https://github.com/user-attachments/assets/2001901b-2348-4389-af98-7fcfff2ccafd" />
 
 
 ## Scalability & Use Cases
