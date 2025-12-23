@@ -73,7 +73,7 @@ The dataset used is **Nigeria Retail and E-commerce Monthly Transactional Data**
 
 ## Analysis & Dashboard Visuals
 The dashboard provides insights across Revenue and Profit views, allowing users to switch between perspectives depending on business needs.
-
+### Dashboard Insights
 -  **Monthly Trends & MoM Change:** Shows monthly performance based on revenue or profit, highlights the best and worst performing months, and displays the percentage increase or decrease to track growth trends over time.
 -  **Revenue by Week Type:** Compares weekday versus weekend performance to understand buying behavior.
 -  **Revenue by Weekday:** Breaks down revenue across days of the week to identify peak and low-performing days.
@@ -81,7 +81,7 @@ The dashboard provides insights across Revenue and Profit views, allowing users 
 -  **Product Category Performance:** Evaluates category-level performance to support product mix and inventory decisions and top selling product category is highlighted to quickly identify the strongest revenue or profit driver.
 -  **Top & Bottom 10 Products:** Identifies the highest and lowest performing products based on revenue or profit.
 
-## Key KPIs
+### Key KPIs
 -  **Total Transactions:** Number of completed sales transactions.
 -  **Total Cost:** Total cost incurred.
 -  **Total Units Sold:** Total quantity of products sold.
@@ -89,6 +89,12 @@ The dashboard provides insights across Revenue and Profit views, allowing users 
 -  **Average Revenue per Transaction:** Average sales value generated per transaction.
 -  **Total Profit:** Net profit generated after deducting total cost from total revenue.
 -  **Profit Margin (%):** Percentage of revenue retained as profit after costs.  
+
+### Revenue Dashboard View
+![Revenue Dashboard](<img width="917" height="447" alt="Revenue view" src="https://github.com/user-attachments/assets/804c2272-137a-4158-a47b-e9b15923451a" />)
+
+### Profit Dashboard View
+![Profit Dashboard](<img width="922" height="445" alt="Profit View" src="https://github.com/user-attachments/assets/2001901b-2348-4389-af98-7fcfff2ccafd" />)
 
 
 ## Scalability & Use Cases
