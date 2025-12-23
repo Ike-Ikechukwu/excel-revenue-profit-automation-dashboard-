@@ -55,11 +55,12 @@ The dataset used is **Nigeria Retail and E-commerce Monthly Transactional Data**
 ### Data Cleaning & Preparation
 1.  **Data Collection:**
   -  Monthly transactional CSV files are gathered and placed in a source folder for consolidation.
-2.  **Data Cleaning and Preparation:**
-  -  Standardized column names and data types.
-  -  Corrected errors in dates, product names, and numeric fields.
-  -  Handled duplicates and missing values.
-  -  Calculated Total Price, Total Cost, Profit, and Profit Margin.
+2.  **Data Cleaning and Preparation:** Before analysis, the data was cleaned to ensure accurate and consistent results.
+  -  Data types were checked and corrected.
+  -  Text fields were standardized to fix inconsistent letter casing
+  -  Unnecessary spaces were removed.
+  -  Missing values were reviewed and handled
+  -  Duplicate records were removed to avoid double counting. 
 3.  **Data Consolidation:**
    -  Multiple monthly files are combined into a single structured dataset using Power Query, enabling automated updates as new data is added  
 4.  **Dashboard Design & Automation:**
