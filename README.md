@@ -6,16 +6,19 @@ excel automation dashboard for revenue and profit analysis using Power Query, Pi
 This project is an **Excel-based automated dashboard** for analyzing **revenue and profit** from the *Nigeria Retail and E-commerce Transactional Data*.
 It automates data cleaning, consolidation, and reporting, and allows users to toggle between **Revenue** and **Profit** views using light VBA.
 
+
 ## Problem Statement
 Monthly sales data often comes as seperate CSV files that require repeated manual cleaning, consolidation and analysis to track revenue and profit.
 This slows reporting and increases the chance of errors, making it difficult for decision-makers to get timely insights.
 
 The challenge is to create an **Excel-based solution** that **automates monthly revenue and profit analysis**, refreshes insight with minimal effort and presents results through a clear, decision-ready dashboard.
 
+
 ## Solution
 An Excel-based automation dashboard was developed to streamline monthly revenue and profit analysis. The solution automatically consolidates transactional data, standardizes it for consistent reporting, and presents key performance metrics through an interactive dashboard.
   
   With a single refresh, the latest available data is automatically included in the analysis, updating revenue, profit, and margin insights end-to-end without repeated manual work. The design priortizes minimal manual effort, repeatable monthly analysis, and clear business insights, while using light interactivity to allow users to switch between revenue and profit views as needed.
+
 
 ## How it Works
 1.  Drop new monthly files into the source folder
@@ -23,6 +26,7 @@ An Excel-based automation dashboard was developed to streamline monthly revenue 
 3.  Click **Refresh All**
 4.  Dashboard updates automatically
 5.  Use the toggle buttons to switch between Revenue and Profit Views
+
 
 ## Dataset Overview
 **Nigeria Retail and E-commerce Monthly Transactional Data**
@@ -39,8 +43,14 @@ An Excel-based automation dashboard was developed to streamline monthly revenue 
   9.   Total cost- Total cost associated with the transaction
   10.  Total profit- Net profit earned from the transaction
 
+
 ## Methodology
 
+### Tools
+-  **Microsoft Excel**: Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
+-  **Power Query**: Power Query is used to automate data consolidation and standardization. This allows the latest monthly data to be included in the analysis with a single refresh.
+-  **Pivot Tables & Charts**: Pivot tales and chart power all KPIs and visuals in the dashboard. They ensure metrics update dynamically as the underlying data changes.
+-  **VBA**: VBA is used only to enchanse usability by toggling the dashboards between Revenue and Profit views.
 
 ### Data Cleaning & Preparation
 1.  **Data Collection:**
@@ -65,6 +75,7 @@ An Excel-based automation dashboard was developed to streamline monthly revenue 
    -  Designed for repeatable monthly updates.
    -  New files in the source folder can update the entire dashboard with one refresh, ensuring all KPIs and visuals are current.
 
+
 ## Analysis & Visuals
 The dashboard provides both Revenue and Profit views, allowing users to switch between perspectives depending on business needs.
 
@@ -85,11 +96,6 @@ The dashboard provides both Revenue and Profit views, allowing users to switch b
 -  **Total Profit:** Net profit generated after deducting total cost from total revenue.
 -  **Profit Margin (%):** Percentage of revenue retained as profit after costs.  
 
-## Tools
--  **Microsoft Excel**: Excel Serves as the core plaatform for analysis, automation, and dashboard delivery. it enables a solution that samll and medium businesses can adopt easily.
--  **Power Query**: Power Query is used to automate data consolidation and standardization. This allows the latest monthly data to be included in the analysis with a single refresh.
--  **Pivot Tables & Charts**: Pivot tales and chart power all KPIs and visuals in the dashboard. They ensure metrics update dynamically as the underlying data changes.
--  **VBA**: VBA is used only to enchanse usability by toggling the dashboards between Revenue and Profit views.
 
 ## Scalability & Use Cases
 This solution is ideal for small and medium businesses with monthly datasets of 1000 to 50,000 rows, where Excel remains efficient and easy to maintain.
@@ -102,12 +108,14 @@ This solution is ideal for small and medium businesses with monthly datasets of 
 
 👉 [link]
 
+
 ## Skills Demonstrated
 -  Excel automation with Power Query
 -  Revenue and Profit analysis
 -  KPI-drdashiven dashboard design
 -  Pratical VBA for interactivity
 -  Business-focused reporting and decision support
+
 
 ## Author
 **Ikechukwu Ike**
