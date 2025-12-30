@@ -28,7 +28,7 @@ With a single refresh, the latest available data is automatically included in th
 4.  Dashboard updates automatically with the latest data
 5.  Use the toggle buttons to switch between Revenue and Profit Views
 
-
+[Watch the full demo on Linkedin](https://www.linkedin.com/posts/ikechukwu-ike-2745a4206_i-approached-this-project-by-starting-with-activity-7411784598705291264-gR52?utm_source=share&utm_medium=member_android&rcm=ACoAADRpongBUZAuCIAWn_JgaBcKLKwnzC_UpOE)
 ## Dataset Overview
 The dataset used is **Nigeria Retail and E-commerce Monthly Transactional Data**, containing transactional level sales records.
   
