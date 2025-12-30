@@ -8,10 +8,11 @@ It automates data cleaning, consolidation, and reporting, and allows users to to
 
 
 ## Problem Statement
-Monthly sales data often comes as seperate CSV files that require repeated manual cleaning, consolidation and analysis to track revenue and profit.
-This slows reporting and increases the chance of errors, making it difficult for decision-makers to get timely insights. As data grows overtime, maintaining consistent and timely analysis becomes inefficient.
+Organizations operating in retail and e-commerce environments receive monthly sales data. These files require repeated manual cleaning, consolidation, and reconciliation before meaningful revenue and profit analysis can be conducted. This manual process slows down reporting, introduces inconsistencies, and increases the risk of errors, making it difficult for stakeholders to access timely and reliable financial insights. 
 
-The challenge is to create an **Excel-based solution** that **automates monthly revenue and profit analysis**, refreshes insight with minimal effort and presents results through a clear, decision-ready dashboard.
+As the volume of data grows over time, maintaining consistent, accurate, and scalable analysis becomes increasingly inefficient. Business leaders struggle to track month-over-month performance, evaluate city and product-level contributions, identify underperforming segments, and understand profitability drivers in a timely manner. The lack of an automated reporting framework limits the organization’s ability to make fast, data-driven decisions around pricing, cost control, and operational optimization. 
+
+The business need is for a structured, Excel-based analytical solution that automates monthly data consolidation, revenue and profit calculations, and performance analysis across time, geography, and product categories. The solution must refresh with minimal manual intervention and present insights through a clear, interactive dashboard that supports financial monitoring, performance reviews, and strategic decision-making.
 
 
 ## Solution
