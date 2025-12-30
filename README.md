@@ -9,13 +9,13 @@ excel automation dashboard for revenue and profit analysis using Power Query, Pi
 - [Dataset Overview](#dataset-overview)
 - [Methodology](#methodology)
 - [Tools Used](#tools)
-- [Data Cleaning & Preparation](#data-cleaning-preparation)
-- [Analysis & Dashboard Visual](#analysis-dashboard-visual)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Analysis and Dashboard Visual](#analysis-and-dashboard-visual)
 - [Dashboard Insights](#dashboard-insights)
 - [Key KPIs](#key-kpis)
 - [Revenue Dashboard View](#revenue-dashboard-view)
 - [Profit Dashboard View](#profit-dashboard-view)
-- [Scalability & Use Cases](#scalability-use-cases)
+- [Scalability and Use Cases](#scalability-and-use-cases)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Author](#author)
 
@@ -71,7 +71,7 @@ The dataset used is **Nigeria Retail and E-commerce Monthly Transactional Data**
 -  **Pivot Tables & Charts**: Pivot tales and chart power all KPIs and visuals in the dashboard. They ensure metrics update dynamically as the underlying data changes.
 -  **VBA**: VBA is used only to enchanse usability by toggling the dashboards between Revenue and Profit views.
 
-### Data Cleaning & Preparation
+### Data Cleaning and Preparation
 1.  **Data Collection:**
   -  Monthly transactional CSV files are gathered and placed in a source folder for consolidation.
 2.  **Data Cleaning and Preparation:** Before analysis, the data was cleaned to ensure accurate and consistent results.
@@ -90,7 +90,7 @@ The dataset used is **Nigeria Retail and E-commerce Monthly Transactional Data**
    -  With one refresh, the entire dashboard gets updated with New files in the source folder ensuring all KPIs and visuals are current.
 
 
-## Analysis & Dashboard Visuals
+## Analysis and Dashboard Visuals
 The dashboard provides insights across Revenue and Profit views, allowing users to switch between perspectives depending on business needs.
 ### Dashboard Insights
 -  **Monthly Trends & MoM Change:** Shows monthly performance based on revenue or profit, highlights the best and worst performing months, and displays the percentage increase or decrease to track growth trends over time.
@@ -118,7 +118,7 @@ The dashboard provides insights across Revenue and Profit views, allowing users 
 
 
 
-## Scalability & Use Cases
+## Scalability and Use Cases
 This solution is ideal for small and medium businesses with monthly datasets of 1000 to 50,000 rows, where Excel remains efficient and easy to maintain.
   
   A full refresh typically takes 30 seconds to 2 minutes, depending on file size and system resources. This time is worth it, as the refresh consolidates files, cleans data, recalculates KPIs, and updates the dashboard. Delivering a complete revenue and profit analysis in one step.
