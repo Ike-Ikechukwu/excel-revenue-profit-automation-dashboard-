@@ -10,7 +10,7 @@ excel automation dashboard for revenue and profit analysis using Power Query, Pi
 - [Methodology](#methodology)
 - [Tools Used](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Analysis and Dashboard Visual](#analysis-and-dashboard-visual)
+- [Analysis and Dashboard Visuals](#analysis-and-dashboard-visuals)
 - [Dashboard Insights](#dashboard-insights)
 - [Key KPIs](#key-kpis)
 - [Revenue Dashboard View](#revenue-dashboard-view)
