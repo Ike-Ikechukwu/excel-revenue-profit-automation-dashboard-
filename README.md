@@ -124,7 +124,7 @@ The dashboard provides insights across Revenue and Profit views, allowing users 
 ## Scalability and Use Cases
 This solution is ideal for small and medium businesses with monthly datasets of 1000 to 50,000 rows, where Excel remains efficient and easy to maintain.
   
-  A full refresh typically takes 30 seconds to 2 minutes, depending on file size and system resources. This time is worth it, as the refresh consolidates files, cleans data, recalculates KPIs, and updates the dashboard. Delivering a complete revenue and profit analysis in one step.
+  A full refresh typically takes 30 seconds to 5 minutes, depending on file size and system resources. This time is worth it, as the refresh consolidates files, cleans data, recalculates KPIs, and updates the dashboard. Delivering a complete revenue and profit analysis in one step.
   
   The same workflow can be applied quarterly or yearly, depending on business needs.
   
