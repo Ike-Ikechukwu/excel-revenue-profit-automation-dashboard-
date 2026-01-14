@@ -50,7 +50,7 @@ With a single refresh, the latest available data is automatically included in th
 
 ## Dataset Overview
 The dataset used is **Nigeria Retail and E-commerce Monthly Transactional Data**, containing transactional level sales records used for revenue and profit analysis
-[download datasets here](  
+[download datasets here](data/raw)  
   **Columns :**
   1.   Transaction id- Unique identifier of each sales transaction.
   2.   Transaction date- Date the transaction occured
