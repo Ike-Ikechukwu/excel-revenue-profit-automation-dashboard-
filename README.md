@@ -128,9 +128,7 @@ This solution is ideal for small and medium businesses with monthly datasets of 
   
   The same workflow can be applied quarterly or yearly, depending on business needs.
   
-  For larger datasets, a BI tool is recommended. A Power BI version of this automation is available here:
-
-👉 [link]
+  For larger datasets, a BI tool is recommended.
 
 
 ## Skills Demonstrated
